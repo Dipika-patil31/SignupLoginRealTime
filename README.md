@@ -23,8 +23,4 @@ An Android application demonstrating **Signup and Login functionality** using **
 
 ---
 
-## Project Setup
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/SignupLoginRealTime.git
